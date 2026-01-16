@@ -1,8 +1,7 @@
-## Hi there 👋
 <div id="header" align="center">
   <img 
-    src="https://raw.githubusercontent.com/EricGrossermann/Project/main/assets/7c1d156a-9f70-44d1-9175-12ac4711a762.png"
-    width="220"
+    src="https://raw.githubusercontent.com/EricGrossermann/Project/main/assets/ChatGPT Image Dec 13, 2025, 01_54_48 AM.png"
+    width="360"
   />
 
   <h1 align="center">Hi 👋, I'm Eric Grossermann</h1>
@@ -10,7 +9,7 @@
   <h3 align="center">
     Cybersecurity & Technology Enthusiast · 
     Business Administration Background · 
-    Continuous Learner
+    Process-Oriented & Analytical
   </h3>
 </div>
 
@@ -34,27 +33,104 @@
 
 ## 👨‍💻 About Me
 
-- 🔐 Interested in **Cybersecurity, Blue Team & Infrastructure**
-- 📊 Background in **Business Administration & Operations**
-- 🧠 Strong interest in **automation, systems and problem solving**
-- 📚 Currently learning and building projects related to **security & tech**
-- 🌍 Open to remote and international opportunities
+I am a technology-driven professional with a strong interest in **cybersecurity, system hardening, and infrastructure**.  
+My background in **Business Administration and Operations** allows me to approach technical problems with a **process-oriented and analytical mindset**.
+
+I focus on:
+- Understanding how systems fail
+- Improving security posture
+- Learning through hands-on labs and projects
+
+---
+
+## 🎯 Career Focus
+
+- 🔐 Blue Team / Defensive Security
+- 🖥️ Linux systems & infrastructure fundamentals
+- 📊 Log analysis & incident fundamentals
+- ⚙️ Automation & operational efficiency
+
+---
+
+## 🧪 Practical Experience
+
+- 🔍 Linux system analysis & basic hardening
+- 🔐 SSH security, permissions, firewall concepts
+- 📄 Log review (auth logs, system logs)
+- 🧠 Security fundamentals & threat awareness
+
+> 📌 All experience is documented through academic projects and hands-on labs.
+
+---
+
+## 📂 Featured Projects
+
+### 🔐 Cybersecurity Final Project (4Geeks Academy)
+
+Comprehensive hands-on project focused on **defensive security, analysis, and incident response**.
+
+**Contents:**
+- Network architecture & security diagram
+- Pentesting analysis report
+- Security assessment report
+- Incident response plan
+- Final presentation
+
+🔗 **Direct Access**
+- 📁 [Repository](https://github.com/EricGrossermann/Project/tree/main/Final_Projects)
+
+- 📄 [Security Report (PDF)](https://github.com/EricGrossermann/Project/blob/main/Final_Projects/Final%20P.%20-%20INFORME%20DE%20SEGURIDAD.pdf)
+
+- 📄 [Pentesting Report (PDF)](https://github.com/EricGrossermann/Project/blob/main/Final_Projects/Final%20P.%20-%20INFORME%20DE%20PENTESTIN.pdf)
+
+- 🗺️ [Network Diagram](https://github.com/EricGrossermann/Project/blob/main/Final_Projects/Final%20P.%20-%20DIAGRAMA%20DE%20RED.png)
+
+- 🎤 [Presentation](https://github.com/EricGrossermann/Project/blob/main/Final_Projects/PRESENTACION%20-%20CYBERSEGURIDAD.pdf)
+
+---
+
+### 🧪 Cybersecurity Labs & Academic Practices
+
+Collection of **practical security labs and exercises** developed during training.
+
+**Topics include:**
+- SSL & OpenSSL analysis
+- Pentesting reports
+- Security assessments
+- Network simulations (Cisco Packet Tracer)
+
+🔗 **Labs Repository:**  
+https://github.com/EricGrossermann/Project/tree/main/Subs_Projects(4geeks)
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, Bash, JavaScript
-- **Security:** Linux, Networking basics, Logs analysis, Hardening
-- **Tools:** Git, GitHub, Docker (basic), CLI
-- **Other:** Business Operations, Process Optimization
+### Languages
+- Python
+- Bash
+
+### Security & Systems
+- Linux
+- Networking fundamentals
+- System hardening basics
+- Log analysis concepts
+
+### Tools
+- Git & GitHub
+- Docker (basic)
+- CLI environments
+
+### Other Skills
+- Operations & Process Optimization
+- Documentation & structured thinking
 
 ---
 
 ## 📫 How to reach me
 
-- 📧 Email: **TU_EMAIL@gmail.com**
-- 💼 LinkedIn: **TU_LINKEDIN**
+- 📧 Email: **Eric_23_00@hotmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/eric-grossermann/**
 
 
 
