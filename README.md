@@ -125,35 +125,10 @@ https://github.com/EricGrossermann/Project/tree/main/Subs_Projects(4geeks)
 
 ---
 
-## 🛠️ Technologies & Tools
-
-### Languages
-- Python
-- Bash
-
-### Security & Systems
-- Linux
-- Networking fundamentals
-- System hardening basics
-- Log analysis concepts
-
-### Tools
-- Git & GitHub
-- Docker (basic)
-- CLI environments
-
-### Other Skills
-- Operations & Process Optimization
-- Documentation & structured thinking
-
----
-
 ## 📫 How to reach me
 
 - 📧 Email: **Eric_23_00@hotmail.com**
 - 💼 LinkedIn: **https://www.linkedin.com/in/eric-grossermann/**
-
-
 
 <!--
 **EricGrossermann/EricGrossermann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
