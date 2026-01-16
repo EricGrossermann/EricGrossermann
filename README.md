@@ -24,11 +24,6 @@
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://github.com/EricGrossermann">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
-  </a>
-</div>
-
 ---
 
 ##  About Me 👨‍💻
