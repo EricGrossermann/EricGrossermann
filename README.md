@@ -23,8 +23,8 @@
   <a href="mailto:eric_23_00@hotmail.com">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
   </a>
+ </div>
 
----
 
 ##  About Me 👨‍💻
 
