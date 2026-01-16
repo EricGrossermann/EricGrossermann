@@ -130,5 +130,3 @@ https://github.com/EricGrossermann/Project/tree/main/Subs_Projects(4geeks)
 
 - 📧 Email: **Eric_23_00@hotmail.com**
 - 💼 LinkedIn: **https://www.linkedin.com/in/eric-grossermann/**
-
--->
