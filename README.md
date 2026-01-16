@@ -43,6 +43,27 @@ I focus on:
 
 ---
 
+<div align="center">
+  <h3>🛠️ Languages & Tools</h3>
+
+  <div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+         title="Linux" alt="Linux" width="42" height="42"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+         title="Python" alt="Python" width="42" height="42"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"
+         title="Bash" alt="Bash" width="42" height="42"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+         title="Git" alt="Git" width="42" height="42"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+         title="GitHub" alt="GitHub" width="42" height="42"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
+         title="Docker" alt="Docker" width="42" height="42"/>
+  </div>
+</div>
+
+---
+
 ## 🎯 Career Focus
 
 - 🔐 Blue Team / Defensive Security
