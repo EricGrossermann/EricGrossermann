@@ -31,7 +31,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me 👨‍💻
 
 I am a technology-driven professional with a strong interest in **cybersecurity, system hardening, and infrastructure**.  
 My background in **Business Administration and Operations** allows me to approach technical problems with a **process-oriented and analytical mindset**.
@@ -64,21 +64,21 @@ I focus on:
 
 ---
 
-## 🎯 Career Focus
+## Career Focus 
 
-- 🔐 Blue Team / Defensive Security
-- 🖥️ Linux systems & infrastructure fundamentals
-- 📊 Log analysis & incident fundamentals
-- ⚙️ Automation & operational efficiency
+- Blue Team / Defensive Security
+- Linux systems & infrastructure fundamentals
+- Log analysis & incident fundamentals
+- Automation & operational efficiency
 
 ---
 
-## 🧪 Practical Experience
+## Practical Experience
 
-- 🔍 Linux system analysis & basic hardening
-- 🔐 SSH security, permissions, firewall concepts
-- 📄 Log review (auth logs, system logs)
-- 🧠 Security fundamentals & threat awareness
+- Linux system analysis & basic hardening 🔍
+- SSH security, permissions, firewall concepts 🔐
+- Log review 📄
+- Security fundamentals & threat awareness
 
 > 📌 All experience is documented through academic projects and hands-on labs.
 
@@ -86,7 +86,7 @@ I focus on:
 
 ## 📂 Featured Projects
 
-### 🔐 Cybersecurity Final Project (4Geeks Academy)
+###  Cybersecurity Final Project (4Geeks Academy)
 
 Comprehensive hands-on project focused on **defensive security, analysis, and incident response**.
 
@@ -98,7 +98,8 @@ Comprehensive hands-on project focused on **defensive security, analysis, and in
 - Final presentation
 
 🔗 **Direct Access**
-- 📁 [Repository](https://github.com/EricGrossermann/Project/tree/main/Final_Projects)
+
+- 📄 [Presentation](https://github.com/EricGrossermann/Project/blob/main/Final_Projects/PRESENTACION%20-%20CYBERSEGURIDAD.pdf)
 
 - 📄 [Security Report (PDF)](https://github.com/EricGrossermann/Project/blob/main/Final_Projects/Final%20P.%20-%20INFORME%20DE%20SEGURIDAD.pdf)
 
@@ -106,7 +107,7 @@ Comprehensive hands-on project focused on **defensive security, analysis, and in
 
 - 🗺️ [Network Diagram](https://github.com/EricGrossermann/Project/blob/main/Final_Projects/Final%20P.%20-%20DIAGRAMA%20DE%20RED.png)
 
-- 🎤 [Presentation](https://github.com/EricGrossermann/Project/blob/main/Final_Projects/PRESENTACION%20-%20CYBERSEGURIDAD.pdf)
+- 📂 [Repository](https://github.com/EricGrossermann/Project/tree/main/Final_Projects) 
 
 ---
 
@@ -125,7 +126,7 @@ https://github.com/EricGrossermann/Project/tree/main/Subs_Projects(4geeks)
 
 ---
 
-## 🛠️ Technologies & Tools
+##  Technologies 🛠️& Tools🛠️
 
 ### Languages
 - Python
@@ -153,19 +154,4 @@ https://github.com/EricGrossermann/Project/tree/main/Subs_Projects(4geeks)
 - 📧 Email: **Eric_23_00@hotmail.com**
 - 💼 LinkedIn: **https://www.linkedin.com/in/eric-grossermann/**
 
-
-
-<!--
-**EricGrossermann/EricGrossermann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
